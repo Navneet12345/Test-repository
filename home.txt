@@ -1,0 +1,29 @@
+#include<iostream>
+
+using namespace std;
+void display();
+
+
+
+int main(){
+
+cout<<"This is a new commit"<<endl;
+
+display();
+
+
+return(0);
+
+}
+
+void display(){
+cout<<"this is our edited commit"<<endl;
+
+}
+
+
+
+
+
+
+
