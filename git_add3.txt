@@ -3,15 +3,23 @@
 
 
 using namespacae std;
-
+void display();
 int main(){
 
 
 
 cout<<"this is third git add file"<<endl;
-
+display();
 
 return(0);
+
+
+}
+
+void display(){
+
+
+cout<<"this is edited third git add file"<<endl;
 
 
 }

@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-
+void display();
 using namespace std;
 
 
@@ -8,9 +8,16 @@ int main(){
 
 
 cout<<"introduction to git add"<<endl;
-
+display();
 
 return(0);
 
+
+}
+
+void display(){
+
+
+cout<<"this is edited git add text"<<endl;
 
 }
