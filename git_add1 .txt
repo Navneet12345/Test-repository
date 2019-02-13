@@ -1,24 +1,16 @@
 #include<iostream>
+#include<string>
 
 using namespace std;
 
 
 int main(){
 
-cout<<"This is a new commit"<<endl;
 
-
+cout<<"introduction to git add"<<endl;
 
 
 return(0);
 
+
 }
-
-
-
-
-
-
-
-
-

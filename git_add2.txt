@@ -1,0 +1,15 @@
+#nclude<iostream>
+#include<string>
+
+using namespace std;
+
+
+int main(){
+
+cout<<"this is basic to git_add"<<endl;
+
+
+return(0);
+
+
+} 
