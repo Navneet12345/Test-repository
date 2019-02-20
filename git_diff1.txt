@@ -1,5 +1,6 @@
 #include<iostream>
 #include<string>
+void display():
 
 using namespace std;
 
@@ -7,6 +8,15 @@ int main(){
 
 cout<<"this is a git diff commit"<<endl;
 return(0);
+display();
+
+
+
+}
+void display(){
+
+
+cout<<"this is a edited git diff file"<<endl;
 
 
 }
