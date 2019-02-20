@@ -1,0 +1,14 @@
+#include<iostream>
+#include<string>
+
+using namespace std;
+
+
+int main(){
+
+
+cout<<"this is a git diff commit"<<endl;
+
+return(0);
+
+}
