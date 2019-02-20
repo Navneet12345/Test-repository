@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 void display();
+void gitpull();
 using namespace std;
 
 int main(){
@@ -9,6 +10,7 @@ int main(){
 
 cout<<"this is a git fetch commit"<<endl;
 display();
+gitpull();
 
 return(0);
 
@@ -22,3 +24,9 @@ cout<<"this is a edited git fetch"<<endl;
 
 }
 
+void gitpull(){
+
+cout<<"this is a git pull command"<<endl;
+
+
+}
