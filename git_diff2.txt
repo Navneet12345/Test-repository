@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<conio.h>
+
+
+int main(){
+printf("this is a git diff commit");
+
+return(0);
+
+}
