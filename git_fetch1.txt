@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-
+void display();
 using namespace std;
 
 int main(){
@@ -8,9 +8,17 @@ int main(){
 
 
 cout<<"this is a git fetch commit"<<endl;
-
+display();
 
 return(0);
 
 
 }
+
+
+void display(){
+
+cout<<"this is a edited git fetch"<<endl;
+
+}
+
