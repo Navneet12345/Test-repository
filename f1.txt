@@ -1,0 +1,15 @@
+#include <iostream>
+
+
+using namespace std;
+
+
+int main(){
+
+
+cout<<"this is a git reset commit"<<endl;
+
+return(0);
+
+
+}
