@@ -47,9 +47,9 @@ int main(){
     Navneet.talk("Hi there");
     
     Player *enemy=new Player;
-    (*enemy).name="Enemy";
+    (*enemy).name="Slayer";
     (*enemy).health=100;
-    enemy->xp=16;
+    enemy->xp=23;
     enemy->talk(" I will destroy you ");
     
     

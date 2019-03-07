@@ -71,7 +71,7 @@ int main(){
     
     Account Users_account;
     Users_account.set_name("Users account");
-    Users_account.set_balance(5000000000);
+    Users_account.set_balance(5000000);
      
     
     if (Users_account.deposit(10000))
