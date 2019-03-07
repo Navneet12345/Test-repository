@@ -36,12 +36,12 @@ int main(){
     Account User_account;
     User_account.name="Navneet_account";
     User_account.balance=100000.0;
-    User_account.deposit(5000.0);
-    User_account.withdraw(1000.0); 
+    User_account.deposit(500000.0);
+    User_account.withdraw(10000.0); 
     
     
     Player Navneet;
-    Navneet.name="Navneet";
+    Navneet.name="Assasian";
     Navneet.health=100;
     Navneet.xp=17;
     Navneet.talk("Hi there");

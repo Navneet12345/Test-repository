@@ -70,7 +70,7 @@ return true;
 int main(){
     
     Account Users_account;
-    Users_account.set_name("Users account");
+    Users_account.set_name("Navneet_account");
     Users_account.set_balance(5000000);
      
     
