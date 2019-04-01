@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is our third txt commit
+=======
+this is our third rebase commit.
+>>>>>>> 70d5b06f1758fd182076603af889b592e600870f

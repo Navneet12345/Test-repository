@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is first txt commit
+=======
+this is our first git rebase commit
+>>>>>>> 70d5b06f1758fd182076603af889b592e600870f
