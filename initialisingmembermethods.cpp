@@ -9,6 +9,7 @@ class Account{
 //attributes
 string name;
 double balance;
+string branch_name; 
 
 
 public:
